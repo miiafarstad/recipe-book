@@ -5,6 +5,7 @@
 - Peanuts
 - Cashew nuts
 - Hazelnuts
+- Pecan nuts
 
 
 ## Instructions
